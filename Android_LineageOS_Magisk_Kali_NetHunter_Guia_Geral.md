@@ -1,4 +1,4 @@
-# Android + LineageOS + Magisk + Kali NetHunter — Guia Geral de Instalação e Compatibilidade
+# Android + LineageOS + Magisk + Kali NetHunter - Guia Geral de Instalação e Compatibilidade
 
 > Guia geral para adaptar a instalação de **LineageOS/ROM compatível + Magisk + Kali NetHunter + Kali Chroot Minimal** ao **seu aparelho Android**. O Xiaomi Mi 9 Lite (`pyxis`) aparece apenas como **estudo de caso validado**; arquivos, partições, recovery, imagens de boot, kernel e comandos de flash devem ser ajustados ao modelo real do leitor.
 >
