@@ -202,17 +202,17 @@ Antes de seguir o tutorial, verifique:
 
 ## Níveis práticos de compatibilidade com NetHunter
 
-### Nível 1 — dispositivo oficialmente suportado
+### Nível 1 - dispositivo oficialmente suportado
 
 Há imagem/kernel e instruções específicas do projeto NetHunter para aquele modelo. É o cenário preferível para recursos avançados.
 
-### Nível 2 — suporte comunitário/kernel específico
+### Nível 2 - suporte comunitário/kernel específico
 
 O NetHunter pode funcionar muito bem, mas ROM, Android, kernel e versão do aparelho precisam coincidir com o projeto comunitário utilizado.
 
-### Nível 3 — ambiente genérico/root/chroot
+### Nível 3 - ambiente genérico/root/chroot
 
-É possível executar grande parte do Kali e suas ferramentas, mas funcionalidades dependentes de kernel ou hardware — Wi-Fi monitor/injection, HID, determinados dispositivos USB etc. — podem não estar disponíveis.
+É possível executar grande parte do Kali e suas ferramentas, mas funcionalidades dependentes de kernel ou hardware - Wi-Fi monitor/injection, HID, determinados dispositivos USB etc. - podem não estar disponíveis.
 
 > **Kali funcionando não significa NetHunter com todos os recursos de hardware funcionando.**
 
@@ -591,7 +591,7 @@ fastboot devices
 
 ---
 
-# 19. Gravar a imagem corrigida pelo Magisk — somente após confirmar a partição correta
+# 19. Gravar a imagem corrigida pelo Magisk - somente após confirmar a partição correta
 
 Execute:
 
@@ -1542,7 +1542,7 @@ Observações:
 | Aparelho | Codinome | ROM/Android | Root | Chroot Minimal | KeX | Wi-Fi interno | USB Wi-Fi |
 |---|---|---|---|---|---|---|---|
 | Xiaomi Mi 9 Lite | `pyxis` | LineageOS 22.2 / Android 15 | ✅ | ✅ | ✅ | ⚠️ limitado no teste | ✅ recomendado |
-| Seu aparelho | — | — | — | — | — | — | — |
+| Seu aparelho | - | - | - | - | - | - | - |
 
 Ao abrir uma Issue ou Pull Request, informe as versões exatas e diferencie claramente:
 
