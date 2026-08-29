@@ -1542,6 +1542,7 @@ Observações:
 | Aparelho | Codinome | ROM/Android | Root | Chroot Minimal | KeX | Wi-Fi interno | USB Wi-Fi |
 |---|---|---|---|---|---|---|---|
 | Xiaomi Mi 9 Lite | `pyxis` | LineageOS 22.2 / Android 15 | ✅ | ✅ | ✅ | ⚠️ limitado no teste | ✅ recomendado |
+| Redmi Note 10S | `secret` (rosemary) | LineageOS 23.2 / Android 15 | ✅ | ✅ | ✅ | ⚠️ não suportado (driver não permite monitor mode) | ✅ recomendado |
 | Seu aparelho | - | - | - | - | - | - | - |
 
 Ao abrir uma Issue ou Pull Request, informe as versões exatas e diferencie claramente:
